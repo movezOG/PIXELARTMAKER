@@ -1,1 +1,1 @@
-https://github.com/movezOG/Pixel-Art-Maker.git
+https://github.com/movezOG/PIXELARTMAKER
