@@ -1,1 +1,1 @@
-https://github.com/movezOG/PIXELARTMAKER
+ https://movezog.github.io/PIXELARTMAKER/
