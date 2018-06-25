@@ -5,10 +5,10 @@
 var gridHeight = document.querySelector('#inputHeight');
 var gridWidth = document.querySelector('#inputWeight');
 var gridCanvas = document.querySelector('#pixelCanvas');
-var colorInput = document.querySelector("#colorPicker");
+var colorSelector = document.querySelector("#colorPicker");
 
 function click(box) {
-  const color = colorInput.value;
+  const color = colorSelector.value;
   box.target.style.backgroundColor = color;
 }
 
